@@ -4,7 +4,7 @@ Your ultimate notification companion. Stay in the loop with important updates an
 ## Features
 ```
 🔥 Features :
-     • 📅 Class updates &amp; notifications
+     • 📅 Class updates & notifications
      • 🎉 University updates
      • 🎈 Campus events
      • 💯 Class attendance calculator
