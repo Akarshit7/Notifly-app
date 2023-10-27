@@ -17,8 +17,12 @@ Version 1.0.0 (Initial Release):
 🎉 Improvements: Smooth UI, Real-time notifications, Optimized performance.
 🐛 Bug Fixes: Improved stability and display.
 🔧 Other Changes: Enhanced security, Thorough testing. 
-```
 
+Version (1.1.0) 
+Changelog:
+-Added New Updated Time Table.
+-Removed the Attendance tab for now. 
+```
 ## Contributing
 
 Currently the source code for the app is closed. But you can contribute to the website/landing page of the app.
